@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=doublesave
+IAge=3
+Name=Doublesave
+Description=Doublesave plugin for Gedit. Saves a backup of previous file version to ~/gedit-backups with a timestamp every time when you press save. This is very similar to the Backup feature on Notepad++ (npp)
+Authors=Bence Nagy, Victor Shevchenko
+Copyright=Copyright © 2012 Bence Nagy. Updated and converted for gedit 3 & Python 3 By Victor Shevchenko https://github.com/gncgroup
+Website=none
